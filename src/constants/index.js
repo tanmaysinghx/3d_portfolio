@@ -4,14 +4,11 @@ import {
     contact,
     css,
     estate,
-    express,
     git,
     github,
     html,
     javascript,
     linkedin,
-    mongodb,
-    motion,
     mui,
     nextjs,
     nodejs,
@@ -31,11 +28,6 @@ export const skills = [
         imageUrl: css,
         name: "CSS",
         type: "Frontend",
-    },
-    {
-        imageUrl: express,
-        name: "Express",
-        type: "Backend",
     },
     {
         imageUrl: git,
@@ -58,16 +50,6 @@ export const skills = [
         type: "Frontend",
     },
     {
-        imageUrl: mongodb,
-        name: "MongoDB",
-        type: "Database",
-    },
-    {
-        imageUrl: motion,
-        name: "Motion",
-        type: "Animation",
-    },
-    {
         imageUrl: mui,
         name: "Material-UI",
         type: "Frontend",
@@ -76,11 +58,6 @@ export const skills = [
         imageUrl: nextjs,
         name: "Next.js",
         type: "Frontend",
-    },
-    {
-        imageUrl: nodejs,
-        name: "Node.js",
-        type: "Backend",
     },
     {
         imageUrl: react,
@@ -111,8 +88,8 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
+        title: "Project Trainee",
+        company_name: "Titan Company Limited (Tanisq)",
         icon: starbucks,
         iconBg: "#accbe1",
         date: "March 2020 - April 2021",
