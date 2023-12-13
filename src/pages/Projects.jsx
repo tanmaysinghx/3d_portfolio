@@ -22,7 +22,8 @@ const Projects = () => {
         Your collaboration is highly valued!
       </p>
 
-      <div className='flex flex-wrap my-20 gap-16'>
+Coming soon ....
+      {/* <div className='flex flex-wrap my-20 gap-16'>
         {projects.map((project) => (
           <div className='lg:w-[400px] w-full' key={project.name}>
             <div className='block-container w-12 h-12'>
@@ -59,7 +60,7 @@ const Projects = () => {
             </div>
           </div>
         ))}
-      </div>
+      </div> */}
 
       <hr className='border-slate-200' />
 
